@@ -1,0 +1,17 @@
+
+table {
+    border: 1px solid;
+}
+
+td {
+    border: 1px solid;
+    min-width: 20px;
+    height: 20px;
+    text-align: center;
+}
+
+
+#table {
+    margin-bottom: 40px;
+    
+}
